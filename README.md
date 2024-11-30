@@ -2,5 +2,5 @@
 ###### ES UN REPOSITORIO CON UN INSTALADOR EN LOS MOMENTOS QUE VAYA A FORMATEAR
 
 ```shell
-git clone 
+git clone https://github.com/JoeArchV/PAQUETES.git
 ```
